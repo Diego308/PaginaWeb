@@ -1,1 +1,269 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Certec</title>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
 
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3"
+      crossorigin="anonymous"
+    />
+    <link rel="stylesheet" href="/style.css" />
+  </head>
+  <body>
+    <header>
+      <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <a class="navbar-brand" href="#">CERTEC</a>
+
+        <ul class="nav">
+          <li class="nav-item">
+            <a class="nav-link active" aria-current="page" href="#nosotros">Nosotros</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#especialista">Especialistas</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#contacto">Contacto</a>
+          </li>
+        </ul>
+      </nav>
+      <div
+        class="cover d-flex justify-content-center align-items-center flex-column"
+      >
+        <h1>
+          CERTEC
+        </h1>
+
+        <p>
+          Responsabilidad, Escucha, Honestidad, Competividad.
+        </p>
+      
+      </div>
+    </header>
+    
+    <section>
+    
+        <div class="contenedor">
+          <div class="container mt-5" id="nosotros" >
+        <h3>
+          ¿QUIENES SOMOS NOSOTROS?
+        </h3>
+            
+        <p>
+          "Certec" es un emprendimiento que, en sus inicios, busca crear
+          herramientas para ayudar a terapeutas y psicologos que trabajan con
+          niños y niñas. Nuestro primer enfoque es la dislexia, pero en el
+          futuro cercano planificamos poder ampliar los ambitos en los que
+          aplicaremos nuestros productos. Queremos integrar la tecnologia en el
+          desarrollo y crecimiento adecuado de niños neuro divergentes. Nuestro
+          enfoque tecnologico esta en desarrollar aplicaciones moviles y web que
+          causen un cambio en la vida de nuestro usuarios.
+        </p>
+      </div>
+      <div class="row d-flex">
+        <img
+          src="https://cdn.glitch.me/d3cab3ff-3a49-4cf0-a244-5b575b30fbcb%2Fundraw_Welcome_re_h3d9.svg?v=1635213794440"
+          height="200"
+          widht="150"
+        />
+      </div>
+    </div>
+    </section>
+          <section>
+            <div class="contenedor">
+              
+          
+            <div class="container mt-5" >
+            
+     <h3>
+          NUESTRA APLICACION : "DISLEX"
+        </h3>
+      <div class="d-flex justify-content-center">
+        <img
+          src="https://cdn.glitch.me/d3cab3ff-3a49-4cf0-a244-5b575b30fbcb%2FLogoDislex.png?v=1636679623427"
+          height="237"
+          widht="437"
+          
+        />
+      </div>
+      <p>
+          Misión: Desarrollar aplicaciones que cambien y mejoren la vida de nuestros usuarios, integrando
+          la tecnologia movil y web en la salud mental, tratamientos psicologicos y en otros aspectos de 
+          la vida diaria de nuestro usuarios.
+          
+        </p>
+        <p>
+          Vision: Marcar un hito en la tecnologia movil y web para ser la empresa lider en aplicaciones que
+          mejoren el estilo de vida de los usuarios.
+          </p>
+            
+              </div>
+              <center>
+              <div class="container mt-5">   
+          <img src="https://cdn.glitch.me/d3cab3ff-3a49-4cf0-a244-5b575b30fbcb%2Fandroid-download.png?v=1636682116963" width="15%" height="10%">
+          <img src="https://cdn.glitch.me/d3cab3ff-3a49-4cf0-a244-5b575b30fbcb%2Fboton-appstore-600x201.png?v=1636682115641" width="14%" height="8%">
+              </div>
+              </center>
+    </section>
+    
+    <section>
+     <div class="container mt-5" id="especialista">
+         <h4>
+        NUESTROS ESPECIALISTAS
+      </h4> 
+      </div>
+     
+    
+      <div class="container mt-5">
+        <div class="row">
+        
+      <div class="col">
+        
+          
+        <div class="card" style="width: 18rem;">
+        <img src="https://cdn.glitch.me/d3cab3ff-3a49-4cf0-a244-5b575b30fbcb%2F1634049583569.jpg?v=1635221277548" class="card-img-top" alt="imgEspJhosselynB" />
+        <div class="card-body">
+          <h5 class="card-title">Dra. Jhosselyn Bautista</h5>
+          <p class="card-text">
+            Cuenta con cuatro estrellas de calificacion por usuarios.
+          </p>
+          <a href="https://pe.linkedin.com/in/jhosselyn-bautista" class="btn btn-primary d-flex justify-content-center" target="_blank">LinkedIn</a>
+        </div>
+      </div>
+      </div>
+        
+    
+       <div class="col">
+         
+          
+        <div class="card" style="width: 18rem;">
+        <img src="https://cdn.glitch.me/d3cab3ff-3a49-4cf0-a244-5b575b30fbcb%2FWaldin-Duran-Director-Comercial-BTH-Hotel.jpeg?v=1635221694498" class="card-img-top" alt="imgEspWaldinD" />
+        <div class="card-body">
+          <h5 class="card-title">Dr. Waldin Duran</h5>
+          <p class="card-text">
+            Cuenta con tres estrellas de calificacion por usuarios.
+          </p>
+          <a href="https://pe.linkedin.com/in/waldinduran/en" class="btn btn-primary d-flex justify-content-center" target="_blank" >LinkedIn</a>
+        </div>
+      </div>
+      </div>
+      
+    
+      <div class="col">
+        
+          
+        <div class="card" style="width: 18rem;">
+        <img src="https://cdn.glitch.me/d3cab3ff-3a49-4cf0-a244-5b575b30fbcb%2F1536457357139.jpg?v=1635221928477" class="card-img-top" alt="imgEspFelipeU" />
+        <div class="card-body">
+          <h5 class="card-title">Dr. Felipe Ugarte Jordana</h5>
+          <p class="card-text">
+            Cuenta con cuatro estrellas de calificacion por usuarios.
+          </p>
+          <a href="https://cl.linkedin.com/in/felipeugarte" class="btn btn-primary d-flex justify-content-center" target="_blank">LinkedIn</a>
+        </div>
+      </div>
+        </div>
+      </div>
+      </div>
+    </section>
+    <section>
+       <div class="container mt-5" id="contacto">
+         <h4>
+        VIDEO ABOUT THE TEAM
+      </h4> 
+      </div>
+      <div class="container mt-5" id="especialista">
+         <div class="d-flex justify-content-center">
+        <img
+          src="https://cdn.glitch.me/d3cab3ff-3a49-4cf0-a244-5b575b30fbcb%2FCaptura%20de%20pantalla%202021-11-22%20221348.png?v=1637637313088"
+          height="400"
+          widht="437" 
+        />
+      </div>
+      </div>
+         <div class="container mt-5" id="especialista">
+         <div class="d-flex justify-content-center">
+           <a href="https://www.youtube.com/watch?v=VcfYabVwL-A" class="btn btn-primary d-flex justify-content-center" target="_blank">Link del video</a>
+         </div>
+         </div>
+    </section>
+    <section>
+       <div class="container mt-5" id="contacto">
+         <h4>
+        VIDEO ABOUT THE PRODUCT
+      </h4> 
+      </div>
+      <div class="container mt-5" id="especialista">
+         <div class="d-flex justify-content-center">
+        <img
+          src="https://cdn.glitch.me/d3cab3ff-3a49-4cf0-a244-5b575b30fbcb%2FCaptura%20de%20pantalla%202021-11-22%20222511.png?v=1637637919615"
+          height="400"
+          widht="437" 
+        />
+      </div>
+      </div>
+      <div class="container mt-5" id="especialista">
+         <div class="d-flex justify-content-center">
+           <a href="https://www.youtube.com/watch?v=aglX2ar1YE8" class="btn btn-primary d-flex justify-content-center" target="_blank">Link del video</a>
+         </div>
+      </div>
+    </section>
+    <section>
+    <div class="container mt-5" id="contacto">
+         <h4>
+        CONTACTO
+      </h4> 
+      </div>
+       <div class="container mt-5">
+      <div class="d-flex justify-content-center"> 
+        <img
+        src="https://cdn.glitch.me/d3cab3ff-3a49-4cf0-a244-5b575b30fbcb%2FWhatsApp-logo.png?v=1636504636881"     
+        height="150"
+        /> 
+        <img 
+        src="https://cdn.glitch.me/d3cab3ff-3a49-4cf0-a244-5b575b30fbcb%2FInstagram-logo.png?v=1636504792093"
+        height="150"
+        />
+        <img 
+        src="https://cdn.glitch.me/d3cab3ff-3a49-4cf0-a244-5b575b30fbcb%2F580b57fcd9996e24bc43c53e.png?v=1636504874240"
+        height="230"
+    
+        />
+        <img 
+        src="https://cdn.glitch.me/d3cab3ff-3a49-4cf0-a244-5b575b30fbcb%2F240px-Facebook_Logo_(2019).png?v=1636505023119"
+        height="150"
+             
+        />
+      </div>
+      </div>
+    </section>
+    <section>
+      
+    </section>
+  </body>
+</html>
+body{
+  margin: 0em;
+}
+
+.cover {
+  height:400px;
+  background-color:white;
+  background-size: cover;
+  background-position: center;
+  background-color:rgba(106,90,205);
+  color:white;
+}
+.contenedor h3{
+  text-align:center;
+}
+.contenedor p{
+  text-align:center;
+}
+h4{
+  text-align:center;
+}
